@@ -12,10 +12,10 @@
 
 ### 火星引力偏转效果分析
 利用双曲线轨道kepler递推得到借力偏转轨道，分析在借力飞行期间的近地点半径，以及能量、角动量、速度的变化。
+![Solar System Visualization](images/schematic.png)
 
 ### 轨道图绘制
 绘制了日心坐标系下探测器、火星和地球的飞行轨道图，直观展示了探测器的运动轨迹及其与行星的相对位置关系。
-
 ![Solar System Visualization](images/solar.png)
 
 ## 实验结果
